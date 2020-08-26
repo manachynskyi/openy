@@ -8,6 +8,7 @@ table:not(.default-table) {
   border-radius: 5px;
   overflow-x: scroll;
   display: block;
+  background: white;
 
   @include media-breakpoint-up(sm) {
     display: table;
