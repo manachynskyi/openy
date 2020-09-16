@@ -1,0 +1,13 @@
+name: Open Y Bouquet
+type: theme
+description: 'YMCA brand compliant and customizable theme.'
+package: Open Y
+version: 8.x-1.0
+core: 8.x
+base theme: classy
+libraries:
+  - openy_bouquet/global-styling
+regions:
+  header: Header
+  content: Content
+  footer: Footer

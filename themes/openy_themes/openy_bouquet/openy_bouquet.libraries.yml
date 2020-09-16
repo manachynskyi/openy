@@ -1,0 +1,9 @@
+global-styling:
+  version: 0.1
+  css:
+    base:
+      //stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css: {}
+  js:
+    //stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js: { type: external, minified: true }
+  dependencies:
+    - core/jquery
