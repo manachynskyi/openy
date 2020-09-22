@@ -1144,3 +1144,10 @@ function openy_update_8081() {
     ]);
   }
 }
+
+/**
+ * Enable openy_bouquet module.
+ */
+function openy_update_8082() {
+  \Drupal::service('module_installer')->install(['bouquet']);
+}
