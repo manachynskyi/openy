@@ -3,6 +3,7 @@ global-styling:
   css:
     base:
       //stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css: {}
+      css/styles.css: {}
   js:
     //stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js: { type: external, minified: true }
   dependencies:
