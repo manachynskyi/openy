@@ -31,3 +31,8 @@
   background-repeat: no-repeat !important;
   background-position: center center !important;
 }
+
+.layout-container {
+  position: relative;
+  overflow-x: hidden;
+}
